@@ -66,6 +66,11 @@ html, body {
         width: 70% !important;
         margin: 20px;
     }
+
+
+    .innercontainer div {
+        float: none !important;
+    }
 }
 
 .layer {
